@@ -16,7 +16,7 @@ A browser game made for visualizing a traceback algorithm, built on HTML, CSS, T
 - Favorite programming language is Typescript
 - Favorite architects are Frank Gehry, Zaha Hadid, and Toyo Ito
 - Favorite Adobe programs are Indesign > Photoshop > Illustrator
-- Other software skills are Rhino with Grasshopper and Blender for visulization
+- Other software skills are Rhino with Grasshopper and Blender for rendering
 
 <!--
 **Eddie-Ward/Eddie-Ward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
