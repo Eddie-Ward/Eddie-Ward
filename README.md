@@ -6,7 +6,7 @@ I'm an aspiring fullstack developer currently in General Assembly's Software Eng
 
 :key: [Dungeon Tiles](https://edward-dungeon-tiles.netlify.app)
 
-A browser game made for visualization a traceback algorithm built on HTML, CSS, Typescript.
+A browser game made for visualizing a traceback algorithm, built on HTML, CSS, Typescript.
 
 ### :mailbox: About
 
