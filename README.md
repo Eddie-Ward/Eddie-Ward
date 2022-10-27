@@ -2,7 +2,18 @@
 
 I'm an aspiring fullstack developer currently in General Assembly's Software Engineering bootcamp.
 
-### :newspaper: Most recent project
+### :newspaper: Most recent projects
+
+
+:movie_camera: [Reelz](https://net-reelz.netlify.app)
+
+A movie companion app for keeping track of movies on your watchlist and adding reviews as well as viewing what other people's reviews.
+
+
+:tea: [Boba Journal](https://edward-boba-journal.netlify.app)
+
+A boba journal for searching for the nearest boba store near you, recording your boba experiences, and ranking your all-time favorites.
+
 
 :key: [Dungeon Tiles](https://edward-dungeon-tiles.netlify.app)
 
@@ -11,7 +22,7 @@ A browser game made for visualizing a traceback algorithm, built on HTML, CSS, T
 ### :mailbox: About
 
 - I graduated from Rice University in 2022 with a degree in Architecture
-- I strongly value design holistically in both visual interface and code structure
+- I strongly value design holistically in both visual interface (UX) and code structure (design patterns)
 - Favorite programming language is Typescript
 - Favorite architects are Frank Gehry, Zaha Hadid, and Toyo Ito
 - Favorite Adobe programs are Indesign > Photoshop > Illustrator
@@ -19,12 +30,21 @@ A browser game made for visualizing a traceback algorithm, built on HTML, CSS, T
 
 ### My Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-Ward&layout=compact&theme=dracula)
 
