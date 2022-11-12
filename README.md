@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring fullstack developer currently in General Assembly's Software Engineering bootcamp.
+I'm a fullstack developer from General Assembly's Software Engineering bootcamp.
 
 ### :newspaper: Most recent projects
 
@@ -26,7 +26,7 @@ A browser game made for visualizing a traceback algorithm, built on HTML, CSS, T
 - Favorite programming language is Typescript
 - Favorite architects are Frank Gehry, Zaha Hadid, and Toyo Ito
 - Favorite Adobe programs are Indesign > Photoshop > Illustrator
-- Other software skills are Rhino with Grasshopper and Blender for rendering
+- Other software skills are Figma for prototyping, Blender for rendering, and Rhino with Grasshoper for modeling, 
 
 ### My Stack
 
@@ -38,6 +38,7 @@ A browser game made for visualizing a traceback algorithm, built on HTML, CSS, T
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![ThreeJS](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
