@@ -4,6 +4,9 @@ I'm a fullstack developer from General Assembly's Software Engineering bootcamp.
 
 ### :newspaper: Most recent projects
 
+:clipboard: [TodoStacks](https://todo-stacks.vercel.app)
+
+A todo list companion that presents a 3D visual representation to the traditional todo list.
 
 :movie_camera: [Reelz](https://net-reelz.netlify.app)
 
