@@ -6,15 +6,9 @@
 
 A todo list companion that presents a 3D visual representation to the traditional todo list.
 
-:movie_camera: [Reelz](https://net-reelz.netlify.app)
-
-A movie companion app for keeping track of movies on your watchlist and adding reviews as well as viewing what other people's reviews.
-
-
 :tea: [Boba Journal](https://edward-boba-journal.netlify.app)
 
 A boba journal for searching for the nearest boba store near you, recording your boba experiences, and ranking your all-time favorites.
-
 
 :key: [Dungeon Tiles](https://edward-dungeon-tiles.netlify.app)
 
@@ -27,7 +21,7 @@ A browser game made for visualizing a traceback algorithm, built on HTML, CSS, T
 - Favorite programming language is Typescript
 - Favorite architects are Frank Gehry, Zaha Hadid, and Toyo Ito
 - Favorite Adobe programs are Indesign > Photoshop > Illustrator
-- Other software skills are Figma for prototyping, Blender for rendering, and Rhino with Grasshoper for modeling, 
+- Other software skills are Figma for prototyping, Blender for rendering, and Rhino with Grasshoper for 3D modeling, 
 
 ### My Stack
 
